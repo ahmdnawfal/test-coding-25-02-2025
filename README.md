@@ -1,0 +1,48 @@
+# Panduan Instalasi dan Menjalankan Proyek
+
+## Installation
+Clone repository ini terlebih dahulu:
+
+```sh
+git clone <URL-REPO>
+cd <NAMA-FOLDER-REPO>
+```
+
+## Menjalankan Soal Utama
+
+### Soal 1-7 & 9 (Frontend)
+- Lokasi: `fe-soal-utama/`
+- Cara menjalankan:
+  ```sh
+  cd fe-soal-utama
+  npm install
+  npm run dev
+  ```
+
+### Soal 8 (Debugging)
+- Lokasi: `testdebug.html`
+- Cara menjalankan:
+  - Buka langsung di browser.
+
+### Soal 10-11 (Backend)
+- Lokasi: `be-soal-utama/`
+- Cara menjalankan:
+  ```sh
+  cd be-soal-utama
+  npm install
+  npm run dev
+  ```
+- Endpoint yang bisa diakses:
+  ```
+  http://localhost:3000/api/data
+  ```
+
+## Menjalankan Soal Pseudo Code
+- Lokasi: `soal-pseudo-code/`
+- Cara menjalankan:
+  ```sh
+  cd soal-pseudo-code
+  node soal1
+  node soal2
+  ```
+
