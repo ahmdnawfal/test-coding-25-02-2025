@@ -44,5 +44,7 @@ cd test-coding-25-02-2025
   cd soal-pseudo-code
   node soal1
   node soal2
+  node soal3
+  node soal4
   ```
 
