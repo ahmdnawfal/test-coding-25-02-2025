@@ -4,8 +4,8 @@
 Clone repository ini terlebih dahulu:
 
 ```sh
-git clone <URL-REPO>
-cd <NAMA-FOLDER-REPO>
+git clone https://github.com/ahmdnawfal/test-coding-25-02-2025.git
+cd test-coding-25-02-2025
 ```
 
 ## Menjalankan Soal Utama
